@@ -1,2 +1,3 @@
-# Ai-Agent-Framework
-It worked perfectly.  main.py  ran, the agent selected the  generate_content  skill, and Gemini wrote a full poem about midnight coding.  You now have a fully functional AI agent with:  LLM Intelligence (Gemini Flash Lite) Memory (Context awareness) Dynamic Decision Making (It chooses its own skills) Retry Logic (Robust against API limits)
+This repository contains a custom-built agentic AI framework that demonstrates how to design, implement, and run an intelligent, autonomous AI agent without relying on prebuilt agent libraries.
+
+The project follows a clean agent architecture consisting of an Agent core, States, Skills, and Policies, enabling dynamic decision-making, tool selection, memory, and robustness.
